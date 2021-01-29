@@ -1,6 +1,6 @@
 #MATHEMATICAL
 def add(x, y):
-	return (x+y)
+	pass
 
 #SUb
 def subtract(x, y):

@@ -4,7 +4,9 @@ def add(x, y):
 
 #SUb
 def subtract(x, y):
-	pass
+	if x > Y and x > 0:
+		return "error"
+	return x-y
 
 #div
 def divide(x, y):

@@ -4,7 +4,7 @@ def add(x, y):
 
 #SUb
 def subtract(x, y):
-	if x > Y:
+	if x > Y and x > 0:
 		return "error"
 	return x-y
 
